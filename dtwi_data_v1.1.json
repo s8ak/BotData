@@ -1,0 +1,234 @@
+{
+    "teaching": [
+        {
+            "name": "Digitalization of the Individual",
+            "type": "Lecture",
+            "format": "Lecture & Capstone Project (Exercise)",
+            "course_of_studies": "Bachelor BWL, Bachelor Winfo, Bachelor Wipäd, Bachelor WiRe",
+            "language": "English",
+            "semester": "winter semester",
+            "scope": 6,
+            "lecturedays": [
+                {
+                    "name": "Interactive Session",
+                    "day": "Monday",
+                    "type": "Lecture",
+                    "start_date": "02.11.2020",
+                    "time_from": "14:15",
+                    "time_to": "15:45",
+                    "place": "Microsoft Teams",
+                    "place_link": "https://teams.microsoft.com/l/team/19%3aae153143245b47e099b9202e36e49089%40thread.tacv2/conversations?groupId=f435d407-004f-4617-8d65-d020ee431209&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f"
+                },
+                {
+                    "name": "Capstone Session",
+                    "day": "Tuesday",
+                    "type": "Exercise",
+                    "start_date": "03.11.2020",
+                    "time_from": "14:15",
+                    "time_to": "15:45",
+                    "place": "Microsoft Teams",
+                    "place_link": "https://teams.microsoft.com/l/team/19%3aae153143245b47e099b9202e36e49089%40thread.tacv2/conversations?groupId=f435d407-004f-4617-8d65-d020ee431209&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f"
+                }
+            ],
+            "moodle_link": "https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=3999",
+            "grading": "Exam: 60%, Capstone Project: 40%"
+        },
+        {
+            "name": "Human-Centered Information Systems",
+            "type": "Lecture",
+            "format": "Lecture & Capstone Project (Exercise)",
+            "course_of_studies": "Master BWL, Master Winfo, Master Wipäd, Master WiRe",
+            "language": "English",
+            "semester": "summer semester",
+            "scope": 6,
+            "lecturedays": [
+                {
+                    "name": "Interactive Session",
+                    "day": "Monday",
+                    "type": "Lecture",
+                    "start_date": "12.04.2021",
+                    "time_from": "14:00",
+                    "time_to": "15:30",
+                    "place": "Microsoft Teams",
+                    "place_link": "https://teams.microsoft.com/l/team/19%3ac4bc20bb213f439ab1b6c0383743a6d6%40thread.tacv2/conversations?groupId=e8cebc9a-aef0-421f-9584-1566dcf0dbeb&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f"
+                },
+                {
+                    "name": "Capstone Session",
+                    "day": "Tuesday",
+                    "type": "Exercise",
+                    "start_date": "13.04.2021",
+                    "time_from": "14:00",
+                    "time_to": "15:30",
+                    "place": "Microsoft Teams",
+                    "place_link": "https://teams.microsoft.com/l/team/19%3ac4bc20bb213f439ab1b6c0383743a6d6%40thread.tacv2/conversations?groupId=e8cebc9a-aef0-421f-9584-1566dcf0dbeb&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f"
+                }
+            ],
+            "moodle_link": "https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=4914",
+            "grading": "Exam: 60%, Capstone Project: 40%"
+        },
+        {
+            "name": "Collaborative Development of Conversational Agents",
+            "type": "Lecture",
+            "format": "Lecture & Project (Exercise)",
+            "course_of_studies": "Master BWL, Master Winfo, Master Wipäd, Master WiRe",
+            "language": "English",
+            "semester": "every semester",
+            "scope": 3,
+            "lecturedays": [
+                {
+                    "name": "Interactive Session",
+                    "day": "Tuesday",
+                    "type": "Lecture",
+                    "start_date": "20.04.2021",
+                    "time_from": "15:45",
+                    "time_to": "17:15",
+                    "place": "Please register for the course",
+                    "place_link": "https://www.uni-saarland.de/lehrstuhl/morana/lehre/collaborative-development-of-conversational-agents-master.html"
+                }
+            ],
+            "moodle_link": null,
+            "grading": "N/A"
+        }      
+    ],
+    "inDepthTeaching": {
+        "Bachelor_Thesis": {
+            "name": "Bachelor Thesis",
+            "topics": [],
+            "URL": "https://www.uni-saarland.de/lehrstuhl/morana/lehre/abschlussarbeiten.html"
+        },
+        "Project_Thesis": {
+            "name": "Project Thesis",
+            "topics": [],
+            "URL": "https://www.uni-saarland.de/en/chair/morana/teaching/projektarbeit-bachelor.html"
+        },
+        "Seminar_Thesis": {
+            "name": "Seminar Thesis",
+            "topics": [],
+            "URL": "https://www.uni-saarland.de/en/chair/morana/teaching/seminar.html"
+        },
+        "Master_Thesis": {
+            "name": "Master Thesis",
+            "topics": [],
+            "URL": "https://www.uni-saarland.de/lehrstuhl/morana/lehre/abschlussarbeiten.html"
+        },
+        "Research_Project": {
+            "name": "Research Project",
+            "topics": [],
+            "URL": "https://www.uni-saarland.de/en/chair/morana/teaching/forschungsprojekt-master.html"
+        }
+    },
+    "team": [
+        {
+            "title": "Jun.-Prof. Dr.",
+            "name": "Stefan Morana",
+            "role": "Head of Department",
+            "contact": {
+                "eMail": "stefan.morana@uni-saarland.de",
+                "phone": "+49 681 302-3785",
+                "address": {
+                    "building": "C3.1",
+                    "room": 212
+                }
+            },
+            "officeHours": "by appointment",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/_processed_/0/f/csm_Bild-Stefan-Morana_14578f7010.jpg"
+        },
+        {
+            "title": null,
+            "name": "Stéphanie Tolksdorf",
+            "role": "Secretariat",
+            "contact": {
+                "eMail": "s.tolksdorf@mx.uni-saarland.de",
+                "phone": "+49 681 302-2132",
+                "address": {
+                    "building": "C3.1",
+                    "room": "311"
+                }
+            },
+            "officeHours": "Monday - Thursday 11:00 - 15:00",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/morana/Female_Blank.gif"
+        },
+        {
+            "title": null,
+            "name": "Christian Murlowski",
+            "role": "Research Assistant",
+            "Contact": {
+                "eMail": "N/A",
+                "phone": "+49 681 302-3786 ",
+                "address": {
+                    "building": "C3.1",
+                    "room": "210"
+                }
+            },
+            "officeHours": "by appointment",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/_processed_/7/d/csm_Bild_Murlowski_5c41431d0c.jpg"
+        },
+        {
+            "title": null,
+            "name": "Andreas Kilian",
+            "role": "Student Assistant",
+            "contact": {
+                "eMail": "N/A",
+                "phone": "N/A",
+                "address": {
+                    "building": "C3.1",
+                    "room": 211
+                }
+            },
+            "officeHours": "N/A",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/_processed_/7/c/csm_Bild_Andreas_Kilian_1b6555e304.jpg"
+        },
+        {
+            "title": null,
+            "name": "Anne Przybilla",
+            "role": "Student Assistant",
+            "contact": {
+                "eMail": "s8sanprzy@stud.uni-saarland.de",
+                "phone": "N/A",
+                "address": {
+                    "building": "C3.1",
+                    "room": 211
+                }
+            },
+            "officeHours": "N/A",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/morana/Anne_Przybilla.jpg"
+        },
+        {
+            "title": null,
+            "name": "Caroline Peters",
+            "role": "Student Assistant",
+            "contact": {
+                "eMail": "s8ccpete@stud.uni-saarland.de",
+                "phone": "N/A",
+                "address": {
+                    "building": "C3.1",
+                    "room": 211
+                }
+            },
+            "officeHours": "N/A",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/_processed_/8/1/csm_IMG_9524_4c347e9d8e.jpg"
+        },
+        {
+            "title": null,
+            "name": "Saskia Wita",
+            "role": "Student Assistant",
+            "contact": {
+                "eMail": "s8sawita@stud.uni-saarland.de",
+                "phone": "N/A",
+                "address": {
+                    "building": "C3.1",
+                    "room": 211
+                }
+            },
+            "officeHours": "N/A",
+            "imageLink": "https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/morana/MicrosoftTeams-image__8_.png"
+        }
+    ],
+    "vacancies": [
+        {
+            "name": "Student Assistant (m/w/d)",
+            "referenceNumber": "N/A",
+            "link": "https://www.uni-saarland.de/en/chair/morana/vacancies.html"
+        }
+    ]
+}
